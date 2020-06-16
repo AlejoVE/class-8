@@ -35,9 +35,13 @@
 ### Tech Skills
 
 
-- [x] HTML, CSS  
-- [ ] Java Script  
-- [ ] Node,JS
+- [x] HTML
+- [X] CSS
+- [X] Java Script  
+- [X] Node
+- [X] Sqlite
+- [X] React
+
 
 
  [My github account](https://github.com/ayseakyol/)  
