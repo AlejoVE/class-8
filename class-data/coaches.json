@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Tiago Mendes-Costa",
+    "userName": "otagi",
+    "modules": [
+      {
+        "repoName": "incremental-development",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "name": "IBRAHIM DOGRUSOZ",
+    "userName": "idogrusoz",
+    "modules": [
+      {
+        "repoName": "working-with-code",
+        "role": "assistant"
+      },
+      {
+        "repoName": "incremental-development",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Louise Picot",
+    "userName": "louisepicot",
+    "modules": [
+      {
+        "repoName": "incremental-development",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Fatma",
+    "userName": "fgsumer",
+    "modules": [
+      {
+        "repoName": "separation-of-concerns",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "userName": "greg-hermans",
+    "name": "Grégory",
+    "modules": [
+      {
+        "repoName": "separation-of-concerns",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "userName": "KevinTss",
+    "name": "Kevin",
+    "modules": [
+      {
+        "repoName": "state",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "userName": "helene-nextmoov",
+    "name": "Hélène",
+    "modules": [
+      {
+        "repoName": "encapsulation",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "userName": "bramdevries",
+    "name": "Bram",
+    "modules": [
+      {
+        "repoName": "encapsulation",
+        "role": "lead"
+      }
+    ]
+  }
+]
